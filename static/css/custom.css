@@ -1,0 +1,71 @@
+#number-projects-nd {
+    font-size: 60px;
+}
+
+body {
+    color: white;
+    background-color: #253746;
+    fill: white;
+}
+svg {
+    color: white;
+}
+
+.dc-chart .axis path, .axis line{
+    stroke: white;
+}
+
+text {
+    color: white;
+}
+.chart-stage {
+    width: 100%;
+    background-color: #253746;
+}
+
+input, button, select, textarea {
+    background-color: #ff6900;
+}
+#number-projects-nd {
+    font-size: 60px;
+}
+
+#total-donations-nd {
+    font-size: 60px;
+}
+
+
+.dc-chart g.row text {
+    fill: black font-size : 12 px;
+}
+
+/*.chart-wrapper {
+    background-color: #e7d8c2;
+}*/
+
+#total-projects {
+    background: #ff6900;
+    width: 200px;
+    position: relative;
+    height: 60px;
+    font-size: 29px;
+    color: white;
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 0px;
+}
+
+#net-donations {
+    background: #33CC99;
+    width: 200px;
+    position: relative;
+    height: 60px;
+    font-size: 29px;
+    color: white;
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 0px;
+}
+
